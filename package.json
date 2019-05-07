@@ -1,6 +1,6 @@
 {
   "name": "check-prettier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "check  all files match prettier code style.",
   "main": "index.js",
   "scripts": {
